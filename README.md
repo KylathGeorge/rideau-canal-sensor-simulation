@@ -73,7 +73,7 @@ In `main()` IoT hub clients are created with three separate persistent connectio
 
 ### Example Output
 
-```json
+```command
 {
   'device_id': 'device_A',
   'location': "Dow's Lake",
