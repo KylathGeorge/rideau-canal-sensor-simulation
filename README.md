@@ -8,10 +8,10 @@
 
 This is Python code that simulates 3 IoT devices n 3 different locations which sends data every 10 seconds. The data sent will be:
 
-    - Ice Thickness (cm)
-    - Surface Temperature (°C)
-    - Snow Accumulation (cm)
-    - External Temperature (°C)
+- Ice Thickness (cm)
+- Surface Temperature (°C)
+- Snow Accumulation (cm)
+- External Temperature (°C)
   
 ## Prequisites
 
