@@ -74,6 +74,7 @@ In `main()` IoT hub clients are created with three separate persistent connectio
 ### Example Output
 
 {
+
   'device_id': 'device_A',
 
   'location': "Dow's Lake",
@@ -85,6 +86,7 @@ In `main()` IoT hub clients are created with three separate persistent connectio
   'surface_temperature_c': -5.44,
 
   'snow_accumulation_cm': 10.78,
-  
+
   'external_temperature_c': -18.23
+
 }
