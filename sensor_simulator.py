@@ -6,17 +6,17 @@ from datetime import datetime
 from dotenv import load_dotenv
 from azure.iot.device import IoTHubDeviceClient, Message
 
-# Load environment variables from .env
+#Load environment variables from .env
 load_dotenv()
 
-# Device environment variable names
+#Device environment variable names
 DEVICE_ENV_VARS = {
     "device_A": "IOTHUB_DEVICE_A",
     "device_B": "IOTHUB_DEVICE_B",
     "device_C": "IOTHUB_DEVICE_C",
 }
 
-# Device locations (safe for Cosmos DB partition key)
+#Device locations (safe for Cosmos DB partition key)
 DEVICE_LOCATIONS = {
     "device_A": "Dow's Lake",
     "device_B": "Fifth Avenue",
