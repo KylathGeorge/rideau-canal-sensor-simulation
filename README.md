@@ -20,6 +20,8 @@ This is Python code that simulates 3 IoT devices n 3 different locations which s
   
 ## Installation
 
+1. Install requirements
+
 ```command
 pip install -r requirements.txt
 python sensor_simulator.py
